@@ -11,7 +11,7 @@ class SubKriteriaController extends Controller
 {
     public function index()
     {
-        $subkriterias = SubKriteria::with('kriteria')->get(); // eager loading
+        $subkriterias = Subkriteria::with('kriteria')->paginate(3);
         $kriterias = Kriteria::all(); // untuk form select
         return view('admin.sub-kriteria.index', compact('subkriterias', 'kriterias'));
     }
@@ -36,7 +36,9 @@ class SubKriteriaController extends Controller
         $request->validate([
             'kriteria_id' => 'required|exists:kriterias,id',
             'nama_sub_kriteria' => 'required|string|max:255',
-            'nilai' => 'required|numeric'
+            'nilai' => 'required|numeric',
+            'rentang_usia' => 'required|string',
+            'tahapan' => 'required|string',
         ]);
 
         $sub->update($request->all());

@@ -1,6 +1,3 @@
-
-
-
 <aside id="mainSidebar" class="main-sidebar sidebar-light-primary elevation-1 d-flex flex-column">
 
   <div class="sidebar p-3 text-center">

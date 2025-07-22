@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "kriteria": "Wicara",
+    "nama_sub_kriteria": "Mengucapkan satu kata sederhana (contoh: 'mam', 'mau', 'iya' – meskipun belum jelas)",
+    "nilai": 1,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 2,
+    "kriteria": "Wicara",
+    "nama_sub_kriteria": "Meniru bunyi binatang atau benda (contoh: 'meong', 'tik', 'dup', walau kurang tepat)",
+    "nilai": 1,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 3,
+    "kriteria": "Wicara",
+    "nama_sub_kriteria": "Menyebut nama orang terdekat (contoh: 'mama', 'baba', dengan pelafalan belum jelas)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 4,
+    "kriteria": "Wicara",
+    "nama_sub_kriteria": "Menggabungkan dua kata (contoh: 'mau susu', 'ayo main', meskipun tidak utuh)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 5,
+    "kriteria": "Wicara",
+    "nama_sub_kriteria": "Menunjuk benda sambil menyebut nama (contoh: menunjuk bola sambil berkata 'la' atau 'ba')",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 6,
+    "kriteria": "Okupasi",
+    "nama_sub_kriteria": "Memegang sendok saat makan (walau masih tumpah dan tidak stabil)",
+    "nilai": 1,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 7,
+    "kriteria": "Okupasi",
+    "nama_sub_kriteria": "Menyusun balok besar (koordinasi kasar belum sempurna)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 8,
+    "kriteria": "Okupasi",
+    "nama_sub_kriteria": "Mencoret-coret kertas (dengan kontrol tangan yang belum mantap)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 9,
+    "kriteria": "Okupasi",
+    "nama_sub_kriteria": "Melepas sepatu sendiri (kadang masih perlu bantuan)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 10,
+    "kriteria": "Okupasi",
+    "nama_sub_kriteria": "Meremas benda lunak (latihan kekuatan jari dan tangan)",
+    "nilai": 1,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 11,
+    "kriteria": "Fisioterapi",
+    "nama_sub_kriteria": "Berdiri tanpa bantuan beberapa detik (kadang masih goyah)",
+    "nilai": 1,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 12,
+    "kriteria": "Fisioterapi",
+    "nama_sub_kriteria": "Berjalan beberapa langkah (dengan keseimbangan belum stabil)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 13,
+    "kriteria": "Fisioterapi",
+    "nama_sub_kriteria": "Duduk sendiri tanpa disangga (meskipun postur belum tegak)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 14,
+    "kriteria": "Fisioterapi",
+    "nama_sub_kriteria": "Menggapai mainan di atas kepala (meskipun gerakan lambat)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  },
+  {
+    "id": 15,
+    "kriteria": "Fisioterapi",
+    "nama_sub_kriteria": "Menendang bola ke depan (meski pelan dan arahnya tidak tepat)",
+    "nilai": 2,
+    "rentang_usia": "2-5",
+    "tahapan": "Pra Sekolah (2–5 tahun)"
+  }
+]
+
+

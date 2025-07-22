@@ -48,7 +48,7 @@ class AuthenticatedSessionController extends Controller
             return redirect()->intended('/user/dashboard');
         }
     
-        return redirect('/login'); // fallback kalau role gak terdeteksi
+        return redirect('/login'); 
     }
 
     /**

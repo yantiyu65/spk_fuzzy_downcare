@@ -13,6 +13,7 @@ use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Admin\PerhitunganController;
 use App\Http\Controllers\Admin\SubKriteriaController;
 use App\Http\Controllers\User\PerkembanganAnakController;
+use App\Http\Controllers\User\RekomendasiTerapiController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -62,6 +63,8 @@ Route::middleware(['auth'])->prefix('user')->group(function () {
     Route::get('/rekomendasi', function () {
         return view('user.perkembangan-anak.rekomendasi');
     })->name('user.rekomendasi');
+    Route::post('/get-subkriteria-by-usia', [PerkembanganAnakController::class, 'getSubKriteriaByUsia'])->name('get.subkriteria.usia');
+    Route::get('/rekomendasi', [RekomendasiTerapiController::class, 'index'])->name('user.rekomendasi');
     
 });
 

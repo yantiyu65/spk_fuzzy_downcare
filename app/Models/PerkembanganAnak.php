@@ -11,6 +11,9 @@ class PerkembanganAnak extends Model
 
     protected $fillable = ['nama_anak',
     'usia',
+    'usia_tahun',
+    'usia_bulan',
+    'tahapan_usia',
     'jenis_kelamin',
     'okupasi',
     'wicara',

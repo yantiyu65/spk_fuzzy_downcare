@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengucapkan satu kata sederhana (contoh: 'mam', 'mau', 'iya' – meskipun belum jelas)",
+        "nilai": 1,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 2,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Meniru bunyi binatang atau benda (contoh: 'meong', 'tik', 'dup', walau kurang tepat)",
+        "nilai": 2,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 3,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menyebut nama orang terdekat (contoh: 'mama', 'baba', dengan pelafalan belum jelas)",
+        "nilai": 3,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 4,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menggabungkan dua kata (contoh: 'mau susu', 'ayo main', meskipun tidak utuh)",
+        "nilai": 4,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 5,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menunjuk benda sambil menyebut nama (contoh: menunjuk bola sambil berkata 'la' atau 'ba')",
+        "nilai": 5,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 6,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Memegang sendok saat makan (walau masih tumpah dan tidak stabil)",
+        "nilai": 1,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 7,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menyusun balok besar (koordinasi kasar belum sempurna)",
+        "nilai": 2,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 8,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Mencoret-coret kertas (dengan kontrol tangan yang belum mantap)",
+        "nilai": 3,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 9,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Melepas sepatu sendiri ( masih dengan bantuan)",
+        "nilai": 4,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 10,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Meremas benda lunak (latihan kekuatan jari dan tangan)",
+        "nilai": 5,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 11,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berdiri tanpa bantuan beberapa detik (kadang masih goyah)",
+        "nilai": 1,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 12,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berjalan beberapa langkah (dengan keseimbangan belum stabil)",
+        "nilai": 2,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 13,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Duduk sendiri tanpa disangga (meskipun postur belum tegak)",
+        "nilai": 2,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 14,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menggapai mainan di atas kepala (meskipun gerakan lambat)",
+        "nilai": 4,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "id": 15,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menendang bola ke depan (meski pelan dan arahnya tidak tepat)",
+        "nilai": 5,
+        "rentang_usia": "2-5",
+        "tahapan": "Pra Sekolah (2–5 tahun)"
+    },
+    {
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menggunakan kalimat 3–4 kata (contoh: “Saya mau mandi” meski pelafalan belum jelas)",
+        "nilai": 1,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 16
+    },
+    {
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menjawab pertanyaan sederhana (contoh: 'Namamu siapa?' → 'Adi')",
+        "nilai": 2,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 17
+    },
+    {
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menyebut anggota keluarga lengkap (contoh: ayah, ibu, kakak, nenek meski tidak sempurna)",
+        "nilai": 3,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 18
+    },
+    {
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menyanyi lagu anak sederhana (contoh: “Balonku ada lima” meski lirik tertukar atau suara tidak jelas)",
+        "nilai": 4,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 19
+    },
+    {
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengucapkan permintaan jelas (contoh: 'Boleh saya main?' atau 'Mau kue' meski tempo lambat)",
+        "nilai": 5,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 20
+    },
+    {
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menggambar bentuk sederhana (contoh: garis, lingkaran meski goyah dan tidak presisi)",
+        "nilai": 1,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 21
+    },
+    {
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Meronce manik-manik besar (latihan koordinasi tangan-mata)",
+        "nilai": 2,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 22
+    },
+    {
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Mengancing baju sendiri (meski masih perlu bantuan atau mencoba berkali-kali)",
+        "nilai": 3,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 23
+    },
+    {
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membuka tutup botol plastik (melatih kekuatan tangan dan fokus)",
+        "nilai": 4,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 24
+    },
+    {
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Merobek kertas mengikuti garis (latihan konsentrasi dan kontrol tangan)",
+        "nilai": 5,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 25
+    },
+    {
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berlari jarak pendek (meskipun mudah berhenti atau tidak lurus)",
+        "nilai": 1,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 26
+    },
+    {
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Melompat dengan dua kaki bersamaan (latihan koordinasi dan kekuatan)",
+        "nilai": 2,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 27
+    },
+    {
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berdiri dengan satu kaki beberapa detik (awal dari latihan keseimbangan lanjutan)",
+        "nilai": 3,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 28
+    },
+    {
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menangkap bola besar (latihan reaksi dan koordinasi meskipun jatuh lagi)",
+        "nilai": 4,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 29
+    },
+    {
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Naik tangga tanpa bantuan (meski sambil berpegangan pada pegangan tangga dan bertahap1",
+        "nilai": 5,
+        "rentang_usia": "5-7",
+        "tahapan": "Pra Sekolah Lanjut (5–7 tahun)",
+        "id": 30
+    },
+    {
+        "id": 31,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Bercerita pengalaman singkat (contoh: 'Tadi saya main bola' dengan pelafan yang kurang jelas nya)",
+        "nilai": 1,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 32,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menjawab pertanyaan sebab-akibat (contoh: 'Kenapa senang?' → 'Karena makan es krim') dengan pelafan kurang jelas",
+        "nilai": 2,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 33,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengucapkan kalimat 4–5 kata (contoh: 'Saya suka main mobil biru' dengan pelafana kurang jelas)",
+        "nilai": 3,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 34,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menggunakan kata tanya: siapa, apa, di mana (contoh: 'Siapa itu?', 'Apa ini?' dengan pelafan kurang jelas)",
+        "nilai": 4,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 35,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Bernyanyi dengan lirik lengkap (meski tempo atau artikulasi masih tidak jelas)",
+        "nilai": 5,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 36,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menulis nama sendiri (tulisan masih besar dan belum rapi)",
+        "nilai": 1,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 37,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menggunting pola sederhana (melatih fokus dan kontrol tangan)",
+        "nilai": 2,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 38,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menghapus dan memperbaiki tulisan (menyadari kesalahan dan memperbaiki)",
+        "nilai": 3,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 39,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Merapikan alat tulis atau buku (melatih tanggung jawab kecil)",
+        "nilai": 4,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 40,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membuka bungkus makanan ringan (contoh: membuka biskuit atau wafer)",
+        "nilai": 5,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 41,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Lompat jauh pendek (melatih kekuatan kaki dan percaya diri)",
+        "nilai": 1,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 42,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berjalan sambil membawa barang ringan (seperti buku atau botol kecil)",
+        "nilai": 2,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 43,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menuruni tangga tanpa pegangan (meski dengan kecepatan pelan)",
+        "nilai": 3,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 44,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Bermain lompat tali sederhana (mampu mengikuti ritme walau tidak rutin)",
+        "nilai": 4,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 45,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menyapu lantai dengan sapu kecil (latihan motorik kasar dan koordinasi tangan) meskipun bleum benar memegang dan belum bersih",
+        "nilai": 5,
+        "rentang_usia": "7-12",
+        "tahapan": "Sekolah Dasar (7–12 tahun)"
+    },
+    {
+        "id": 46,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Membuat kalimat lebih panjang (contoh: 'Saya pergi ke sekolah naik angkot' dengan pelafan yang kurang jelas)",
+        "nilai": 1,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 47,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menceritakan kejadian sehari-hari (contoh: 'Tadi pagi sarapan nasi goreng') dengan pelafan kurang jelas",
+        "nilai": 2,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 48,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menyampaikan pendapat sederhana (contoh: 'Saya suka menggambar' dengan pelafan kurang jelas)",
+        "nilai": 3,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 49,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menjawab pertanyaan ‘kenapa’ dengan alasan (contoh: 'Karena main')",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 50,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Berbicara dengan intonasi sesuai (nada suara naik saat tanya, turun saat memberi tahu)",
+        "nilai": 5,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 51,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menyiapkan alat tulis sendiri sebelum belajar (tanpa disuruh, walau belum rapi)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 52,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menyapu dan merapikan tempat tidur (masih butuh instruksi singkat)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 53,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menjahit kancing lepas (butuh bimbingan awal, tapi bisa mencoba sendiri)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 54,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membantu menyiapkan makanan ringan (contoh: mengoles roti, menyiapkan piring)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 55,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Mengatur jadwal kegiatan harian (dengan bantuan visual seperti gambar/jadwal tertulis)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 56,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berjalan cepat dengan stabil (tidak mudah tersandung di tempat ramai)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 57,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menyapu atau mengepel lantai (meskipun masih terbatas area kecil)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 58,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Bermain olahraga ringan (misal: badminton – bisa mengikuti ritme walau pelan)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 59,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berdiri lama tanpa lelah (saat menunggu antrean atau bicara)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 60,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Mengangkat barang ringan dengan kontrol (misalnya tas sekolah atau buku)",
+        "nilai": 4,
+        "rentang_usia": "12-18",
+        "tahapan": "Remaja (12–18 tahun)"
+    },
+    {
+        "id": 61,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menyampaikan kebutuhan harian (contoh: 'Mau mandi dulu')",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 62,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menjelaskan arah sederhana (contoh: 'Belok kiri, terus jalan')",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 63,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Bercerita tentang hobi atau kesukaan (contoh: 'Saya suka gambar')",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 64,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Bertanya balik saat diajak bicara (contoh: 'Kamu dari mana?')",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 65,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengikuti percakapan santai (dengan keluarga atau teman, walau pendek)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 66,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membantu pekerjaan rumah ringan (contoh: menyapu, menata meja)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 67,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Merawat barang pribadi (menaruh HP, dompet, kunci di tempat yang benar)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 68,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membuat makanan sederhana (contoh: membuat mie instan dengan pengawasan ringan)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 69,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menyiapkan pakaian sendiri (bisa pilih dan melipat sendiri)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 70,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Mengatur uang belanja kecil (bisa bayar di warung dan menghitung sederhana)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 71,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berjalan jauh tanpa kelelahan (misalnya ke minimarket atau taman)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 72,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Membawa belanjaan ringan (contoh: membawa kantong plastik kecil)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 73,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Naik kendaraan umum dengan aman (bisa duduk/berdiri sambil menjaga keseimbangan)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 74,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berolahraga ringan secara rutin (jalan pagi atau senam sederhana)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 75,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berdiri sambil mengobrol (tidak cepat lelah, postur cukup stabil)",
+        "nilai": 5,
+        "rentang_usia": "18-30",
+        "tahapan": "Dewasa Muda (18–30 tahun)"
+    },
+    {
+        "id": 76,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menjawab pertanyaan keseharian (contoh: 'Sudah makan?' – 'Sudah')",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 77,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengucapkan salam saat bertemu (contoh: 'Selamat pagi')",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 78,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Menyampaikan perasaan sederhana (contoh: 'Senang', 'Sedih', 'Capek')",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 79,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Bercerita singkat tentang hari itu (contoh: 'Tadi belanja di warung')",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 80,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengikuti percakapan santai (dengan keluarga, tetangga, atau di komunitas)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 81,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Merapikan barang pribadi (misalnya tas, dompet, dan perlengkapan lainnya)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 82,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membantu pekerjaan rumah ringan (seperti menyapu atau cuci piring)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 83,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membuat minuman sederhana (contoh: teh manis, kopi instan)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 84,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menyiapkan pakaian sendiri (bisa memilih dan memakainya tanpa bantuan)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 85,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Membantu merapikan rumah (menata kursi, menyusun barang di rak)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 86,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berjalan santai tanpa bantuan (keluar rumah atau di dalam kompleks)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 87,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berdiri lama sambil bicara (saat di acara atau bertemu orang)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 88,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Membawa barang ringan (seperti botol air atau tas kecil)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 89,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berolahraga ringan di rumah (senam peregangan atau yoga ringan)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 90,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Naik tangga perlahan dan hati-hati (tetap menjaga keseimbangan)",
+        "nilai": 5,
+        "rentang_usia": "30+",
+        "tahapan": "Dewasa (30 tahun ke atas)"
+    },
+    {
+        "id": 91,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mengeluarkan suara vokal seperti 'aa', 'oo', atau 'ee' saat diajak bicara",
+        "nilai": 1,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 92,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Merespon suara orang tua dengan senyum atau cooing",
+        "nilai": 2,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 93,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Mulai mengoceh dengan suku kata (contoh: 'ba-ba', 'da-da') meski belum bermakna",
+        "nilai": 3,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 94,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Memperhatikan wajah saat orang berbicara",
+        "nilai": 4,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 95,
+        "kriteria": "Wicara",
+        "nama_sub_kriteria": "Bereaksi terhadap nama sendiri (contoh: menoleh saat dipanggil)",
+        "nilai": 5,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 96,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menggenggam mainan kecil (walau masih refleks dan belum stabil)",
+        "nilai": 1,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 97,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Memindahkan benda dari satu tangan ke tangan lain",
+        "nilai": 2,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 98,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menepuk tangan atau mencoba bertepuk tangan",
+        "nilai": 3,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 99,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Menggapai mainan yang tergantung (latihan koordinasi mata-tangan)",
+        "nilai": 4,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 100,
+        "kriteria": "Okupasi",
+        "nama_sub_kriteria": "Memasukkan benda ke dalam wadah besar (dengan arahan atau contoh)",
+        "nilai": 5,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 101,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Mengangkat kepala saat tengkurap (meski hanya beberapa detik)",
+        "nilai": 1,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 102,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Berguling dari telentang ke tengkurap",
+        "nilai": 2,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 103,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Duduk dengan bantuan atau sandaran (belum stabil)",
+        "nilai": 3,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 104,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Mengayuh kaki saat diberdirikan (refleks berdiri)",
+        "nilai": 4,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    },
+    {
+        "id": 105,
+        "kriteria": "Fisioterapi",
+        "nama_sub_kriteria": "Menahan posisi berdiri saat berpegangan pada benda",
+        "nilai": 5,
+        "rentang_usia": "0-2",
+        "tahapan": "Bayi Awal (0–2 tahun)"
+    }
+]

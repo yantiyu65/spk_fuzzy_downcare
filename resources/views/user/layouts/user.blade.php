@@ -6,6 +6,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
     <style>
         body {
             font-family: 'Poppins', sans-serif !important;
@@ -35,10 +39,20 @@
         .navbar-nav .nav-link:hover::after {
             width: 100%;
         }
+        .therapy-img {
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    border-radius: 10px;
+    }
+
+    .therapy-img:hover {
+        transform: scale(1.05);
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    }
+
     </style>
     
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100"> 
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
         <div class="container">
